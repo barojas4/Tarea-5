@@ -129,12 +129,48 @@ Ec 2)
 
 ![image](https://user-images.githubusercontent.com/116810935/209023180-82d289f5-16ec-41c3-9959-b9731f3c4b89.png)
 
-Respuestas optenidas transformadas a decimal
+Respuestas obtenidas transformadas a decimal
 
 I1 = -511 mA
 
 I2 = -3.52 mA
 
+19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.
+
+![image](https://user-images.githubusercontent.com/116810935/209023370-63f8297c-ec78-4bb6-b1c0-657c6a34e9c6.png)
+
+
+∑Vs =∑Vx
+
+Siendo Vx = I * Rx
+
+∑Vs =∑[I*Vx ]
+
+Desarrollo
+
+-2-4=1000 Ω I1+560Ω I1-560 I2
+
+-6 V=1560Ω I1-560 I2
+
+Hallar para la otra ecuación
+
++4- 6=-820 Ω I2+560Ω I2-560 I1
+
+-2 V=1380Ω I2-560 I1
+
+![image](https://user-images.githubusercontent.com/116810935/209023180-82d289f5-16ec-41c3-9959-b9731f3c4b89.png)
+
+Respuestas obtenidas transformadas a decimal
+
+I1 = -511 mA
+
+I2 = -3.52 mA
+
+1) 1000 Ω : Vx = (-0.00511 A) * (1000 Ω) = -5.11 V
+
+2) 820 Ω : Vx = (-0.00352 A) * (820 Ω) = -2.8864 V
+
+3) 1000 Ω : Vx = (-0.00511 A + 0.00352 A ) * (560 Ω) = -0.89 V
 
  ## 4. Video
  
