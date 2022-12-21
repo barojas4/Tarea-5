@@ -47,6 +47,63 @@ Aplicar los conocimientos adquiridos en ánalisis de ramas,lazos y nodos propues
 
 ![image](https://user-images.githubusercontent.com/116810935/209018428-459a5801-7626-456a-87be-8112a758e1ed.png)
 
+7. Resuelva para I1, I2,I3 en el siguiente conjunto de ecuaciones con determinantes:
+
+![image](https://user-images.githubusercontent.com/116810935/209020188-cccbdba2-af4a-4e9d-a34d-81f229978a24.png)
+
+![image](https://user-images.githubusercontent.com/116810935/209020634-498ea92d-72de-4180-9674-c3bf01048d17.png)
+
+![image](https://user-images.githubusercontent.com/116810935/209020652-f4bc0274-2325-4492-8903-0472791a0916.png)
+
+![image](https://user-images.githubusercontent.com/116810935/209020695-db5020bb-fdee-41d3-a33c-3b09458e5b4c.png)
+
+![image](https://user-images.githubusercontent.com/116810935/209020715-64fbcd81-1650-43ad-b6dd-da62924081f4.png)
+
+9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
+
+![image](https://user-images.githubusercontent.com/116810935/209020888-dbd4b28d-2292-46c1-9b3e-a4660f994902.png)
+
+11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A
+en la figura 9-26.
+
+![image](https://user-images.githubusercontent.com/116810935/209021168-cd15056f-b89c-4d77-a3d2-480863b2535b.png)
+
+Respuesta: I1 - I2 - I3 = 0
+
+13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique
+la polaridad real.
+
+![image](https://user-images.githubusercontent.com/116810935/209022089-97597374-8720-470b-a92c-6919ba3e4df9.png)
+
+Ecuación
+R1I1 + R2I2 - Vs1 = 0
+R2I2 + R3I3 - Vs2 = 0
+I1 - I2 + I3 = 0
+
+Reemplazando
+8.2I1 + 10I2 = 12
+10I2 + 5.6I3 = 6
+I1 - I2 + I3 = 0
+
+![image](https://user-images.githubusercontent.com/116810935/209022342-57cf3191-3e5d-481f-acdc-3a847bcb2317.png)
+
+I1 = 0.692
+I3 = 0.6329
+I4 = -0.0587
+
+Usando la ley de ohm para encontrar los voltajes V = IR
+V1 = 8.2(0.692)
+V1 = 5.66V
+
+V2 = 10(0.6329)
+V2 = 6.33V
+
+V3 = 5.6(-0.0587)
+V3 = 325mV
+
+15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B). 
+
+![image](https://user-images.githubusercontent.com/116810935/209021411-d99ef15e-a892-46e3-b16e-06618576f470.png)
 
 
 
