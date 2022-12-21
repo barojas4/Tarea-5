@@ -35,7 +35,11 @@ Aplicar los conocimientos adquiridos en ánalisis de ramas,lazos y nodos propues
 
 3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
 
+![image](https://user-images.githubusercontent.com/116810935/209015455-4e95b0bb-9932-4907-a299-74f706c3806b.png)
 
+![image](https://user-images.githubusercontent.com/116810935/209016005-ab000944-b0b2-4414-b6b2-5c2b7c72c913.png)
+
+5. Evalúe cada uno de los determinantes:
 
 
 
