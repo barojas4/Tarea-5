@@ -236,6 +236,16 @@ Ec 2)
 ![image](https://user-images.githubusercontent.com/116810935/209025436-f48e4e89-aaac-4c3e-9610-c16cffd54529.png)
 
 
+I1 = 0.56 A
+
+I2 = 0.202 A
+
+
+VA = 0.0202 A * (4.7Ω+2.2Ω) = 0.139 V
+
+
+VB = 0.0202 A *(8.2 Ω+ 3.9 Ω) = 0.24 V
+
 
 
 
