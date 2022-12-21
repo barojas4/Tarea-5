@@ -27,6 +27,20 @@ Aplicar los conocimientos adquiridos en ánalisis de ramas,lazos y nodos propues
 
 ## 3. Explicacion y resolución de ejercicios
 
+1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
+
+![image](https://user-images.githubusercontent.com/116810935/209013918-fb46566a-0c1f-4a2c-a5ae-e41f87c3752c.png)
+
+![image](https://user-images.githubusercontent.com/116810935/209015258-529a2930-3f4c-4693-b714-68fa73cf7c8a.png)
+
+3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
+
+
+
+
+
+
+
 
 
  ## 4. Video
