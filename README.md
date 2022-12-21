@@ -41,7 +41,11 @@ Aplicar los conocimientos adquiridos en ánalisis de ramas,lazos y nodos propues
 
 5. Evalúe cada uno de los determinantes:
 
+![image](https://user-images.githubusercontent.com/116810935/209017248-67cab316-f461-4ffe-a7e9-c2e7eef3122f.png)
 
+![image](https://user-images.githubusercontent.com/116810935/209017286-f11cee00-f032-40ee-a940-1f31139d03aa.png)
+
+![image](https://user-images.githubusercontent.com/116810935/209018428-459a5801-7626-456a-87be-8112a758e1ed.png)
 
 
 
