@@ -172,6 +172,102 @@ I2 = -3.52 mA
 
 3) 1000 Ω : Vx = (-0.00511 A + 0.00352 A ) * (560 Ω) = -0.89 V
 
+21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.
+
+![image](https://user-images.githubusercontent.com/116810935/209024003-62bc6f9f-75f6-4a2c-965b-fecdfa64fd85.png)
+
+Ley de voltaje de Kirchoff
+
+∑Vs =∑Vx
+
+Vx = I * Rx
+
+∑V_s =∑[I*Vx ]
+
+1.5 V=47 Ω IA+10 Ω IA-10 IB
+
+Ec1: 1.5 V=57 Ω IA-10 IB
+
+-3 V=27 Ω IB+10 Ω IB-10Ω IA+4.7Ω IB-4.7Ω IC
+
+Ec 2: -3 V=41.7 Ω IB-10Ω IA-4.7Ω IC
+
+3 V-1.5 V=15 Ω IC+4.7 Ω IC-4.7Ω IB
+
+Ec 3: 1.5 V=19.7 Ω IC-4.7Ω IB
+
+
+![image](https://user-images.githubusercontent.com/116810935/209024536-b453facf-3d37-44f9-931e-05d91bd6ec66.png)
+
+
+Respuesta: 
+
+IA = 0.0155 A
+
+IB = -0.0613 A 
+
+IC = 0.0615 A
+
+23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
+
+![image](https://user-images.githubusercontent.com/116810935/209024718-b905ae2d-4d9c-431f-9f37-b8424f31e4ac.png)
+
+Ley de voltajes de Kirchhoff
+
+∑Vs =∑Vx
+
+Vx = I * Rx
+
+∑V_s =∑[I*Vx ]
+
+Ec 1)
+
+8V=10Ω I1+4.7Ω I1+2.2Ω I1-4.7ΩI2-2.2ΩI2
+
+8V=16.9Ω I1-6.9 Ω I2
+
+Ec 2)
+
+0V=-4.7Ω I1-2.2Ω I1+4.7ΩI2+2.2ΩI2+8.2 ΩI2+3.9 ΩI2
+
+0V=-6.9 Ω I1+19 ΩI2
+
+
+![image](https://user-images.githubusercontent.com/116810935/209025436-f48e4e89-aaac-4c3e-9610-c16cffd54529.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  ## 4. Video
  
  link del video: 
