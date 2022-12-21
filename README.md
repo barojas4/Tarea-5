@@ -105,7 +105,35 @@ V3 = 325mV
 
 ![image](https://user-images.githubusercontent.com/116810935/209021411-d99ef15e-a892-46e3-b16e-06618576f470.png)
 
+V = I/R
 
+V = 100/68
+
+V = -1.84V
+
+17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
+
+![image](https://user-images.githubusercontent.com/116810935/209022834-a8ab5451-26db-457d-a09f-d2bcb01f511b.png)
+
+Ec 1)
+
+1000I1 + 560I1 - 560I2 = -6
+
+1560I1 - 560I2 = -6
+
+Ec 2)
+
+560I2 -560I1 +820I2 = -2
+
+-560I1 + 1380I2 = -2
+
+![image](https://user-images.githubusercontent.com/116810935/209023180-82d289f5-16ec-41c3-9959-b9731f3c4b89.png)
+
+Respuestas optenidas transformadas a decimal
+
+I1 = -511 mA
+
+I2 = -3.52 mA
 
 
  ## 4. Video
