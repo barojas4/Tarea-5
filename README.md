@@ -415,6 +415,10 @@ I2=(0.00000096V-0.000006754)/(6 000 Ω)=-0.00000001 A
 
 I3=(5.25V-0.00000096V)/(20 000 Ω)=0.0002625 A
 
+### SECCIÓN 10–1 El campo magnético
+
+1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad
+de flujo aumenta o disminuye?
 
 
 
