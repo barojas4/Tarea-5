@@ -287,6 +287,37 @@ IB = 0.0106 A
 
 IC= 0.0044 A
 
+27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real
+de la corriente. 
+
+![image](https://user-images.githubusercontent.com/116810935/209031313-1d33c9b6-4018-4bc6-8977-f3556307553f.png)
+
+∑Ixsalida=∑Ixentrada
+
+Ix = Vs/Rx
+
+Desarrollo
+
+Habiendo un solo nodo habrá solo una ecuación
+
+(40V-VA)/68Ω=(VA-30V)/82Ω+VA/(47Ω+100Ω)
+
+(40 V)/68Ω-VA/68Ω=VA/82Ω-(30 V)/82Ω+VA/147Ω
+
+-VA/82Ω-VA/147Ω-VA/68Ω=-(30 V)/82Ω-(40 V)/68Ω
+
+-0.0337 VA=-665/697 V
+
+VA=28.311 V
+
+Cálculo de ramas
+
+**I1 = (40V-VA)/68Ω=(40V-28.311V)/68Ω=0.17 A
+
+**I2 = (VA+30 V)/82Ω=(28.311V+30V)/82Ω=0.71 A
+
+**I3 = VA/147Ω=28.311V/147Ω= 0.19 A
+
 
 
 
