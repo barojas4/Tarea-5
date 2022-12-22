@@ -478,15 +478,45 @@ Se podria cambiar la densidad del flujo cambiando la corriente
 
 
 
+La retentividad de un material representa el flujo máximo que puede ser retenido después de que el material ha sido magnetizado hasta la saturación y se indica mediante la relación de Br a Bsat
+
+De este modo en la imagen el material que tiene más retentividad es el Materia A.
 
 
+19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular
+al campo magnético?
 
+Respuesta:
 
+La longitud del conductor expuesta al campo
 
+La intensidad del campo magnético
 
+La velocidad de rotación del conductor
 
+21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
 
+Respuesta:
 
+La ley de Faraday establece que un campo magnético cambiante induce un voltaje en una bobina que es directamente proporcional a la velocidad de cambio del campo magnético y al número de vueltas que haya en la bobina. La ley de Lenz hace referencia a la dirección fluye la corriente, y establece que la dirección siempre es tal que se opone al cambio de flujo que la produce.
+
+De este modo la ley de Lenz complementa a la ley de Faraday definiendo la polaridad del voltaje inducido.
+
+23. Explique el propósito del conmutador y de las escobillas en la figura 10-35. 
+
+![image](https://user-images.githubusercontent.com/116810935/209047490-5b36d145-adfb-4096-b586-a057981f04c9.png)
+
+Respuesta:
+
+El ensamble de conmutador y escobillas conecta eléctricamente la espira al circuito externo.
+
+Puesto que el conmutador proporcionar una conexión eléctrica entre las escobillas presentes y la escobilla se trata de elementos cuya finalidad es realizar la presión necesaria.
+
+25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace
+una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el
+voltaje máximo. 
+
+![image](https://user-images.githubusercontent.com/116810935/209047674-6845fdd3-a6a8-4920-974a-ce368c5d33b4.png)
 
 
 
