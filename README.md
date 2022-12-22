@@ -318,11 +318,102 @@ I2 = (VA+30 V)/82Ω=(28.311V+30V)/82Ω = 0.71 A
 
 I3 = VA/147Ω=28.311V/147Ω= 0.19 A
 
+29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
+
+![image](https://user-images.githubusercontent.com/116810935/209032753-ca781556-db8c-43d8-9717-f643b2d8d424.png)
+
+Utilizar la ley de la corriente de Kirchhoff
+
+∑Ixsalida=∑Ixentrada
+
+Siendo Ix = Vs/Rx
+
+Desarrollo
+
+Habrá dos ecuaciones debido a que existen dos nodos
+
+(9V-VA)/(56000 Ω)=VA/(27000 Ω)+(VA-VB)/(91000 Ω)
+
+9V/(56000 Ω)-VA/(56000 Ω)=VA/(27000 Ω)+VA/(91000 Ω)-VB/(91000 Ω)
+
+9V/(56000 Ω)=VA/(56000 Ω)+VA/(27000 Ω)+VA/(91000 Ω)-VB/(91000 Ω)
+
+Primera ecuación: 9V/(56000 Ω)=(37 VA)/561600-VB/(91000 Ω)
+
+(VA-VB)/(91000 Ω)+(4.5V-VB)/(33000 Ω)=(VB-15V)/(82000 Ω)
+
+VA/(91000 Ω)-VB/(91000 Ω)+4.5V/(33000 Ω)-VB/(33000 Ω)=VB/(82000 Ω)-15V/(82000 Ω)
+
+4.5V/(33000 Ω)+15V/(82000 Ω)=-VA/(91000 Ω)+VB/(82000 Ω)+VB/(91000 Ω)+VB/(33000 Ω)
+
+La segunda ecuación: 18V/(56375 Ω)=-VA/(91000 Ω)+0.000053487 VB
+
+Entonces
+
+VA = 3.557 V
+
+VB= 6.700 V
+
+31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
+los voltajes en cada nodo desconocido en la figura 9-35.
+
+![image](https://user-images.githubusercontent.com/116810935/209033703-44f6c92d-d2dc-4f33-99a9-e7c3217899e6.png)
+
+Nodo A
+
+(20-VA)/(10 000 Ω)=(VA+5.25V)/(8 000 Ω)+(VA-VB)/(12 000 Ω)
+
+(-VA)/(10 000 Ω)+(-VA)/(8 000 Ω)+(-VA)/(12 000 Ω)=5.25V/(8 000 Ω)+VB/(12 000 Ω)+(-20V)/(10 000 Ω)
+
+(37 00)/(12 Ω) VA+VB/(12 000 Ω)=(43 000V)/32Ω
+
+Nodo B
+
+VB/(4 000 Ω)=(VA-VB)/(12 000 Ω)+(VC+5.25 V)/(6 000 Ω)
+
+VB/(10 000 Ω)+VB/(12 000 Ω)=VA/(12 000 Ω)+VC/(6 000 Ω)+5.25V/(6 000 Ω)
+
+1100/(6 Ω) VB-VA/(12 000 Ω)-VC/(6 000 Ω)=5.25V/6000Ω
+
+Nodo C
+
+VC/(2 000 Ω)=(VC-VB)/(6 000 Ω)+(5.25V-VC)/(20 000 Ω)
+
+VC/(2 000 Ω)-VC/(6 000 Ω)+VC/(20 000 Ω)=(-VB)/(6 000 Ω)+(-5.25V)/(20 000 Ω)
+
+(17 00)/(6 Ω) VC-VB/(12 000 Ω)=+5.25V/(20 000Ω)
+
+![image](https://user-images.githubusercontent.com/116810935/209034005-3db67a06-2674-4a41-a43a-e66e58977cfb.png)
 
 
+![image](https://user-images.githubusercontent.com/116810935/209033968-2a660295-ce72-4893-8b91-fa7f5e2e46fd.png)
 
 
+VA = 4.35 V
 
+VB = 0.000006754 V
+
+VC = 0.000000926 V
+
+Nodo A **I1= (20-4.35V)/10000=0.001565 A
+
+I2= (5.25V+4.35V)/8000= 0.0012A
+
+I3= (4.35V-0.000006754V)/12000=0.001565 A
+
+Nodo B **I1=0.000006754V/4000=0.000000002 A
+
+I2= I3 del nodo A
+
+I3=(0.00000096V+5.25V)/20000=0.0002625 A
+
+Nodo C
+
+I1=0.00000096V/2000=0.00000034 A
+
+I2=(0.00000096V-0.000006754)/(6 000 Ω)=-0.00000001 A
+
+I3=(5.25V-0.00000096V)/(20 000 Ω)=0.0002625 A
 
 
 
