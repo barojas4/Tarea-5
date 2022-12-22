@@ -25,6 +25,25 @@ Aplicar los conocimientos adquiridos en ánalisis de ramas,lazos y nodos propues
 
 ## 2.Marco Teorico (Resumen)
 
+![1](https://user-images.githubusercontent.com/116810935/209189541-82bf5dd6-222b-4d71-9ab3-00b103b5e5e1.jpg)
+
+![2](https://user-images.githubusercontent.com/116810935/209189555-be33cc04-9e0e-45c5-95c2-1e76d2e3d8c4.jpg)
+
+![3](https://user-images.githubusercontent.com/116810935/209189569-0e192896-ca1c-4a47-b0d6-44516498c996.jpg)
+
+![4](https://user-images.githubusercontent.com/116810935/209189582-1299730d-871a-4e48-adb3-17031ec32fcc.jpg)
+
+![5](https://user-images.githubusercontent.com/116810935/209189611-1e879f6f-34a0-4bc2-b9d6-3859ecb01fe5.jpg)
+
+
+![6](https://user-images.githubusercontent.com/116810935/209189619-ec00b5d3-c183-4716-8656-ddc8f50707ff.jpg)
+
+![7](https://user-images.githubusercontent.com/116810935/209189654-a771e703-2286-4047-803c-e45508e31c41.jpg)
+
+
+
+
+
 ## 3. Explicacion y resolución de ejercicios
 
 1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
