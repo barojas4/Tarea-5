@@ -420,15 +420,26 @@ I3=(5.25V-0.00000096V)/(20 000 Ω)=0.0002625 A
 1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad
 de flujo aumenta o disminuye?
 
+La densidad disminuye por que si el flujo se mantiene constante el area transversal de un campo mágnetico se incrementa 
+
+3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 x 10 ^-6 T y el área de sección transversal mide 150 cm^2?
+
+Φ = flujo
+
+A = área transversal
+
+
+Φ=B*A
 
 
 
+150 cm2 = 0.15 m2
 
+Φ=2500 * 10^6 T *0.15m^2
 
+Φ =375*10^6 Wb
 
-
-
-
+5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 uT. Exprese esta densidad de flujo en gauss. 
 
 
 
