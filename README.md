@@ -236,7 +236,7 @@ Ec 2)
 ![image](https://user-images.githubusercontent.com/116810935/209025436-f48e4e89-aaac-4c3e-9610-c16cffd54529.png)
 
 
-I1 = 0.56 A
+I1 = 0.57 A
 
 I2 = 0.202 A
 
