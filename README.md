@@ -246,9 +246,46 @@ VA = 0.0202 A * (4.7Ω+2.2Ω) = 0.139 V
 
 VB = 0.0202 A *(8.2 Ω+ 3.9 Ω) = 0.24 V
 
+25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31. 
+
+![image](https://user-images.githubusercontent.com/116810935/209029555-17202680-ce9b-4aed-a7aa-08e6dcf36ed9.png)
+
+Utilizamos la ley de voltajes de Kirchhoff
+
+∑Vs =∑Vx
+
+Vx = I * Rx
+
+∑V_s =∑[I*Vx ]
+
+Ec 1)
+0 V=680 Ω IA+3300Ω IA-3300Ω IB+1500 Ω IA-1500 Ω IC
+
+ 0 V=5480 Ω IA-3300 IB-1500 Ω IC
+Ec 2)
+
+15 V=-3300 Ω IA+3300Ω IB+820Ω IB-820 Ω IC
+
+15 V=-3300 Ω IA+4120Ω IB-820 Ω IC
+
+Ec 3)
+
+0 V=-1500 Ω IA-820Ω IB+1500 Ω IC+820 Ω IC+2200 Ω IC
+
+0 V=-1500 Ω IA-820Ω IB+4520 Ω IC
 
 
+![image](https://user-images.githubusercontent.com/116810935/209029998-180c218b-0202-4654-8f2e-34b7d7afe602.png)
 
+![image](https://user-images.githubusercontent.com/116810935/209030166-297eb3b4-9e0f-4062-8d7f-bec7678995d9.png)
+
+Respuestas:
+
+IA = 0.0076 A
+
+IB = 0.0106 A
+
+IC= 0.0044 A
 
 
 
