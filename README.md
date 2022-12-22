@@ -464,9 +464,17 @@ Respuesta: Resorte
 Fuerzas producidas por la interacción del campo electromagnético y el campo magnético permanente
 
 
+15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del
+núcleo?
+
+![image](https://user-images.githubusercontent.com/116810935/209046055-78a78dbb-3a3a-4b51-9104-4fbdf45760e2.png)
+
+Se podria cambiar la densidad del flujo cambiando la corriente 
 
 
+17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.
 
+![image](https://user-images.githubusercontent.com/116810935/209046323-b9178c2c-feae-4ae2-9bc7-74a753213a20.png)
 
 
 
