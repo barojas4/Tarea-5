@@ -438,7 +438,30 @@ La densidad disminuye por que si el flujo se mantiene constante el area transver
 ![image](https://user-images.githubusercontent.com/116810935/209042341-d36fe6aa-9a83-4817-9209-66fd81ccf1ed.png)
 
 
+9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?
 
+![image](https://user-images.githubusercontent.com/116810935/209042982-680d1429-1989-432a-a905-d40caa8a5600.png)
+
+11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?
+
+
+El émbolo es atraído hacia los topes (en un tira y afloja continuo) a través de la concentración del campo magnético que proporciona la fuerza mecánica para realizar el trabajo
+
+ Respuesta: Campo Electromagnético
+
+
+
+(b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
+
+Como el embolo se mueve hacia arriba o hacia abajo la fuerza que hace que ingrese a su posición de reposo es la fuerza del resorte
+
+Respuesta: Resorte
+
+13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina?
+
+![image](https://user-images.githubusercontent.com/116810935/209043727-c37e7e3c-66bd-4b88-9144-024f78be742e.png)
+
+Fuerzas producidas por la interacción del campo electromagnético y el campo magnético permanente
 
 
 
